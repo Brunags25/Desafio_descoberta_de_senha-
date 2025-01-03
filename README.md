@@ -18,6 +18,5 @@
 - Obtendo o endereço da maquina: "ifconfig" ( se tiver seguido as orientações de "observações" o sistema entrega automaticamente o endereço da maquina)
 - URL para clone: http://www.facebook.com
 
-### RESULTADO 
-
-![Logo do Projeto](resultadophishing.png)
+### RESULTADO FINAL 
+- Se encontra no arquivo de imagem "resultadophishing.png"
